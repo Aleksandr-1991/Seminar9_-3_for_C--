@@ -4,19 +4,19 @@ Console.WriteLine("Введите номер четверти. Число от 1
 int N = Convert.ToInt32(Console.ReadLine());
 if (N == 1)
 {
-    Console.WriteLine("x>0, y>0");
+    Console.WriteLine("В таком случае: x>0, y>0");
 }
 else if (N == 2)
 {
-    Console.WriteLine("x<0, y>0");
+    Console.WriteLine("В таком случае: x<0, y>0");
 }
 else if (N == 3)
 {
-    Console.WriteLine("x<0, y<0");
+    Console.WriteLine("В таком случае: x<0, y<0");
 }
 else if (N == 4)
 {
-    Console.WriteLine("x>0, y<0");
+    Console.WriteLine("В таком случае: x>0, y<0");
 }
 else
 {
