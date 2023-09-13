@@ -1,0 +1,15 @@
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.csproj.AssemblyReference.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.AssemblyInfoInputs.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.AssemblyInfo.cs
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.csproj.CoreCompileInputs.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\bin\Debug\net6.0\Seminar9_Task4.exe
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\bin\Debug\net6.0\Seminar9_Task4.deps.json
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\bin\Debug\net6.0\Seminar9_Task4.runtimeconfig.json
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\bin\Debug\net6.0\Seminar9_Task4.dll
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\bin\Debug\net6.0\Seminar9_Task4.pdb
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.dll
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\refint\Seminar9_Task4.dll
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.pdb
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\Seminar9_Task4.genruntimeconfig.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Seminar9_Task4\obj\Debug\net6.0\ref\Seminar9_Task4.dll
