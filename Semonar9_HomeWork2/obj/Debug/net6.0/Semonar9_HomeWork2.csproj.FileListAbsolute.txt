@@ -1,0 +1,15 @@
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\bin\Debug\net6.0\Semonar9_HomeWork2.exe
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\bin\Debug\net6.0\Semonar9_HomeWork2.deps.json
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\bin\Debug\net6.0\Semonar9_HomeWork2.runtimeconfig.json
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\bin\Debug\net6.0\Semonar9_HomeWork2.dll
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\bin\Debug\net6.0\Semonar9_HomeWork2.pdb
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.csproj.AssemblyReference.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.AssemblyInfoInputs.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.AssemblyInfo.cs
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.csproj.CoreCompileInputs.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.dll
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\refint\Semonar9_HomeWork2.dll
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.pdb
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\Semonar9_HomeWork2.genruntimeconfig.cache
+C:\Обуч!\Seminar9_(3_for_C#)\Semonar9_HomeWork2\obj\Debug\net6.0\ref\Semonar9_HomeWork2.dll
