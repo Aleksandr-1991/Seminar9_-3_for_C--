@@ -6,7 +6,7 @@ Console.Write ("Введите координату y для первой точ
 int y1 = Convert.ToInt32(Console.ReadLine());
 Console.Write ("Введите координату z для первой точки: ");
 int z1 = Convert.ToInt32(Console.ReadLine());
-Console.Write ("Введите координату X для второй точки: ");
+Console.Write ("Введите координату x для второй точки: ");
 int x2 = Convert.ToInt32(Console.ReadLine());
 Console.Write ("Введите координату y для второй точки: ");
 int y2 = Convert.ToInt32(Console.ReadLine());
