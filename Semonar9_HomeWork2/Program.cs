@@ -12,6 +12,6 @@ Console.Write ("Введите координату y для второй точ
 int y2 = Convert.ToInt32(Console.ReadLine());
 Console.Write ("Введите координату z для второй точки: ");
 int z2 = Convert.ToInt32(Console.ReadLine());
-
-double L = Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1) + (z1 - z2) * (z1 - z2));
+// c округлением до третьего знака после запятой:  
+double L = Math.Round(Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1) + (z1 - z2) * (z1 - z2)), 3);
 Console.Write("Расстояние между точками: " + L);
