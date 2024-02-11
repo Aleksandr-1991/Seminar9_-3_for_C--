@@ -1,12 +1,7 @@
-﻿// Зад №17 (в группах). Прога: На вход коор-ты точки (X и Y). Причём X!=0 и Y!=0.
-// И выдаёт № четверти плоскости, в кот нах-ся эта точка.
+﻿// Зад 17. Прога приним коор-ты (X и Y). Причём X!=0 и Y!=0. И выдаёт № четверти плоскости, в кот нах-ся эта точка.
 
-// Console.WriteLine("Введите X");
-// int x = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Введите Y");
-// int y = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[2];
-Console.WriteLine("Введите X и Y");
+Console.Write("Введите X и Y: ");
 for (int i=0; i < array.Length; i++)
 {
     array[i] = Convert.ToInt32(Console.ReadLine());   // - Запомнить (всё начиная с массива)!

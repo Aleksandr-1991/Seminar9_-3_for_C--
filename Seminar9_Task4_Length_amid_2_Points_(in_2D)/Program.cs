@@ -11,7 +11,7 @@ Console.WriteLine("Введите координаты второй точки: 
 Console.Write("Введите x2: ");
 Double x2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите y2: ");
-Double y2 = Convert.ToDouble(Console.ReadLine());    // */    // - первая простая запись вводимых координат
+Double y2 = Convert.ToDouble(Console.ReadLine());    //*/    // - первая простая запись вводимых координат
 
 double [] A = new double [2];
 double [] B = new double [2];

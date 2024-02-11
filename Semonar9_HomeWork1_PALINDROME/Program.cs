@@ -9,6 +9,7 @@ for (int i = 0; i < array.GetLength(0); i++)
     Console.Write("Введите " + (i+1) + "-ю цифру или символ пятичленного массива: ");
     array[i] = Console.ReadLine();
 }
+
 Console.Write("Получился массив:  ");
 for (int j = 0; j < array.GetLength(0); j++)
 {
@@ -37,7 +38,7 @@ else if (number/10000 == number%10 && (number/1000)%10 == (number/10)%10 && numb
 {
      Console.Write("Число - палиндром.");
 }
-else Console.Write("Число Не яв-ся палиндромом.");                          // */
+else Console.Write("Число Не яв-ся палиндромом.");                    // */
 
 // код для автотеста:
 // /*
@@ -58,4 +59,4 @@ else
 }
 // - Конец блока для копирования
 }
-Console.WriteLine(IsPalindrome(number));                              // */
+Console.WriteLine(IsPalindrome(number));                            // */
